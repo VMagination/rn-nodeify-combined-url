@@ -1,0 +1,23 @@
+{
+  "name": "rn-nodeify-combined-url",
+  "version": "0.0.0",
+  "description": "Combination of whatwg url and original url for module overrides in react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VMagination/rn-nodeify-combined-url.git"
+  },
+  "author": "VMagination",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VMagination/rn-nodeify-combined-url/issues"
+  },
+  "homepage": "https://github.com/VMagination/rn-nodeify-combined-url#readme",
+  "dependencies": {
+    "url": "^0.11.0",
+    "whatwg-url": "^11.0.0"
+  }
+}
